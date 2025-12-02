@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+wordcloud
+nltk
+afinn
+nrclex
+vaderSentiment
+statsmodels
+torch
+transformers
